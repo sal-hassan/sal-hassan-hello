@@ -1,0 +1,13 @@
+--- # List of devices
+
+- name: router1
+  ip: 10.10.10.1
+  description: first router
+
+- name: router2
+  ip: 10.10.10.2
+  description: second router
+
+- name: switch1
+  ip: 10.10.10.3
+  description: axs switch
